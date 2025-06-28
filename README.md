@@ -1,9 +1,13 @@
-## Hi there 👋
+# h1 Mi Presento:
+# h2 Ita ver.:
+Sono una ragazza che sta per completare un corso di programmazione per full stack developer (finirà a metà luglio).
+Ho imparato ad usare bene alcuni linguaggi di programmazione per sviluppo web, 
+ad approcciarmi con le persone facendo anche dei corsi sulle softskill e lavorando spesso in team.
 
-<!--
-**Inti3096/Inti3096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# h1 Introducing myself:
+# h2 Eng ver.:
+I'm a girl who is about to complete a course to become a Full stack developer (until half July).
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
