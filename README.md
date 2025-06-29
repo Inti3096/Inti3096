@@ -39,8 +39,5 @@ Feel free to reach out or check out my projects!
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:intimarchesini96@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inti3096&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
 
 
