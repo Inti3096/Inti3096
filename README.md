@@ -36,8 +36,11 @@ and I have also developed my interpersonal skills by taking soft skills courses 
 Feel free to reach out or check out my projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inti-marchesini-50ba72221/) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]([intimarchesini96@gmail.com](https://mail.google.com/mail/u/0/#inbox))
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:intimarchesini96@gmail.com)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Inti3096&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
 
 
