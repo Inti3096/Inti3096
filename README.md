@@ -15,5 +15,29 @@ I am a girl who is about to complete a full stack developer programming course (
 I have learned to use some programming languages well for web development,
 and I have also developed my interpersonal skills by taking soft skills courses and frequently working in teams.
 
+---
+
+### 🚀 Skills & Technologies
+
+- **Frontend:**
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+
+- **Backend (Exploring):**
+  - Node.js
+  - Express.js
+  - SQL
+
+---
+### 📫Connettiamoci!/ Let's connect!
+
+Feel free to reach out or check out my projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/inti-marchesini-50ba72221/))  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](intimarchesini96@gmail.com)
+
+---
 
 
